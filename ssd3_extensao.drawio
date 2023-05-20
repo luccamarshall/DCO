@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T23:18:14.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="8E9n0kESTwlxrqQEMJhy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T23:19:30.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J8f41H3Rp3DcQixqYf5V" version="21.3.2" type="github">
   <diagram name="Page-1" id="2ckxLBR6-5pkAGTXuphX">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yl2zIXJjHtwqeB0LJr4M-1" value="&lt;sup&gt;Funcionário&lt;/sup&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl2zIXJjHtwqeB0LJr4M-2" value="Sistema&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl2zIXJjHtwqeB0LJr4M-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="706" as="sourcePoint" />
+            <mxPoint x="160" y="106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl2zIXJjHtwqeB0LJr4M-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="146" as="sourcePoint" />
+            <mxPoint x="580" y="146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl2zIXJjHtwqeB0LJr4M-5" value="registarJogo( codigo)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="154" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yl2zIXJjHtwqeB0LJr4M-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="706" as="sourcePoint" />
+            <mxPoint x="580" y="106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl2zIXJjHtwqeB0LJr4M-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="196" as="sourcePoint" />
+            <mxPoint x="580" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl2zIXJjHtwqeB0LJr4M-12" value="returnAlreadyExists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="206" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
