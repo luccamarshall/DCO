@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T22:53:06.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MA84jkZ2Vv9FklDsAJCW" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T22:55:52.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0pvGZZ5--HS8TRZa3zYF" version="21.3.2" type="github">
   <diagram name="Page-1" id="RAsm3MzsCeoiBA0fkBq_">
     <mxGraphModel dx="1647" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
             <mxPoint x="580" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPrwiV--0R65bodMWS2V-20" value="returnValidade, categoriasDePreco" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="340" width="210" height="30" as="geometry" />
+        <mxCell id="iPrwiV--0R65bodMWS2V-20" value="returnValidade, categoriasDePreco(Enum)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="340" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iPrwiV--0R65bodMWS2V-21" value="returnValidade" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="325" y="206" width="100" height="30" as="geometry" />
