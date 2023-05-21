@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T23:02:34.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="IEa-Jj7_OQaXeWPPt_rb" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T23:03:41.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="edi5yMMefAvtP3YvpIKZ" version="21.3.2" type="github">
   <diagram name="Page-1" id="hYrl3ZHirICyW_UpTZGf">
     <mxGraphModel dx="1647" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,8 +34,8 @@
             <mxPoint x="580" y="196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RDEhtJRQ4FMow5y40eVk-8" value="getJogos()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="335" y="206" width="80" height="30" as="geometry" />
+        <mxCell id="RDEhtJRQ4FMow5y40eVk-8" value="getJogos(categorais, estado)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="285" y="206" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rpNa78o9wenumL-gHM61-1" value="Sistema" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="40" width="80" height="40" as="geometry" />
